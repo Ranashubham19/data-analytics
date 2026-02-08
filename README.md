@@ -28,5 +28,4 @@ The dashboard is implemented using **Jupyter Notebook** for reproducible analysi
 
 ---
 
-## 📂 Project Structure
 
